@@ -29,9 +29,9 @@ url: "https://jgillula.github.io" # the base hostname & protocol for your site, 
 github_username:  jgillula
 
 # Build settings
-theme: jekyll-theme-hacker
-plugins:
-  - jekyll-feed
+theme: minima
+#plugins:
+#  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
