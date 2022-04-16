@@ -29,7 +29,7 @@ url: "https://jgillula.github.io" # the base hostname & protocol for your site, 
 github_username:  jgillula
 
 # Build settings
-theme: minima
+theme: jekyll-theme-midnight
 #plugins:
 #  - jekyll-feed
 
