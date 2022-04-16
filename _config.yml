@@ -29,9 +29,18 @@ url: "https://jgillula.github.io" # the base hostname & protocol for your site, 
 github_username:  jgillula
 
 # Build settings
-theme: jekyll-theme-midnight
-plugins:
-  - jekyll-feed
+#theme: jekyll-theme-midnight
+theme: jekyll-dash
+#plugins:
+#  - jekyll-feed
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# jekyll-tagging (optional)
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
