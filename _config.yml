@@ -68,5 +68,9 @@ tag_page_dir: tag
 dash:
   avatar_source: github
   github_username: jgillula
-  avatar_source: local
-  avatar_path: /assets/avatar.png  
+#  avatar_source: local
+#  avatar_path: /assets/avatar.png
+
+  social_links:
+    - url: https://github.com/jgillula
+      icon: github-square
